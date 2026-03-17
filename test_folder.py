@@ -2,7 +2,7 @@
 
 def main():
     print("Test folder file from sample1")
-    print("test jenkins 1")
+    print("test jenkins 2")
 
 
 if __name__ == "__main__":
