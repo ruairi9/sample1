@@ -2,7 +2,7 @@
 
 def main():
     print("Hello World from SDOS Microservice!")
-    print("test jenkins 6")
+    print("test jenkins 7")
 
 
 if __name__ == "__main__":
