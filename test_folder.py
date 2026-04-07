@@ -3,7 +3,7 @@
 def main():
     print("Test folder file from sample1")
     print("test jenkins 5")
-    print("does it push 5")
+    print("does it push 6")
 
 
 if __name__ == "__main__":
